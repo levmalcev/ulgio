@@ -1,5 +1,8 @@
 # ULGio
 
+<!-- Add picture ulg.png below -->
+![ULGio]("ulgio.png")
+
 ## Introduction
 
 J'ai réalisé ce jeu en 2018 dans le cadre du cours "Premier Projet d'Informatique" à l'Université de Liège.
