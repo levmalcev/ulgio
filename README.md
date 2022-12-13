@@ -1,7 +1,7 @@
 # ULGio
 
 <!-- Add picture ulg.png below -->
-![ULGio]("ulgio.png")
+![ULGio](ulgio.png)
 
 ## Introduction
 
